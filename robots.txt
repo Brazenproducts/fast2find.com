@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fast2find.com/sitemap.xml
